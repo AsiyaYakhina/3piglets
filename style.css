@@ -1,0 +1,47 @@
+#replaceImageInv {
+	display: none;
+
+}
+
+#replaceImageVis {
+	display: inline;
+	
+}
+
+#redInv {
+	display: none;
+	background-color: #e37171;
+	
+}
+
+#redVis {
+	display: inline;
+	background-color: #e37171;
+	
+}
+
+#blueInv {
+	display: none;
+	background-color: #87caed;
+}
+#blueVis {
+	display: inline;
+	background-color: #87caed;
+}
+
+#greenInv {
+	display: none;
+	background-color: #edef1a;
+}
+#greenVis {
+	display: inline;
+	background-color: #edef1a;
+}
+
+#background {
+	background-color: #66BF6D;
+}
+
+#greenInstr {
+	rotation: 90deg;
+}
